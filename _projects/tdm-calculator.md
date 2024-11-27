@@ -27,13 +27,6 @@ leadership:
       slack: https://hackforla.slack.com/team/U05Q5D34ARZ
       github: https://github.com/Parisajf
     picture: https://avatars.githubusercontent.com/Parisajf
-  - name: Anousha Shadrach
-    github-handle:
-    role: UX Designer
-    links:
-      slack: 'https://hackforla.slack.com/team/U045EHW8NDA'
-      github: 'https://github.com/Noushie'
-    picture: https://avatars.githubusercontent.com/Noushie
   - name: Jane He
     github-handle:
     role: Lead, UX Research
