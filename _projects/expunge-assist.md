@@ -20,6 +20,13 @@ leadership:
       slack: https://hackforla.slack.com/team/U04J34E73CG
       github: https://github.com/amejiamesinas
     picture: https://avatars.githubusercontent.com/amejiamesinas
+  - name: Srishti Gupta
+    github-handle: srishti-gupta-me
+    role: Product Manager, UX Content
+    links:
+      slack: https://hackforla.slack.com/team/U07FF4C4YFQ
+      github: https://github.com/srishti-gupta-me
+    picture: https://avatars.githubusercontent.com/srishti-gupta-me    
   - name: Mireya V. Aviles
     github-handle: vanessaavviles
     role: Product Manager, Design
