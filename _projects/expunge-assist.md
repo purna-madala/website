@@ -69,6 +69,13 @@ leadership:
       slack: https://hackforla.slack.com/team/U06E9RQ8DRA
       github: https://github.com/sylvia-nam
     picture: https://avatars.githubusercontent.com/sylvia-nam
+  - name: Rachel Ichniowski
+    github-handle: raeraeicky
+    role: Product Manager, UX Research
+    links:
+      slack: https://hackforla.slack.com/team/U07LGA7RZ0W
+      github: https://github.com/raeraeicky
+    picture: https://avatars.githubusercontent.com/raeraeicky
   - name: Rick Peng
     github-handle: rcpeng34
     role: Product Manager, Development
