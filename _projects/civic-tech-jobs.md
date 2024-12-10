@@ -62,6 +62,13 @@ leadership:
       slack: https://hackforla.slack.com/team/U06313EMD41
       github: https://github.com/CarmenMM1
     picture: https://avatars.githubusercontent.com/CarmenMM1
+  - name: Rishi Raghu
+    github-handle: rishi222k
+    role: UXR Researcher
+    links:
+      slack: https://hackforla.slack.com/team/U07G0CHGNSD
+      github: https://github.com/rishi222k
+    picture: https://avatars.githubusercontent.com/rishi222k
   - name: Leah Ellis
     github-handle:
     role: UX Researcher
