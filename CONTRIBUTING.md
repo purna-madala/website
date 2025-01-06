@@ -910,16 +910,16 @@ git push --set-upstream origin update-give-link-2093
 
 ##### **i. Complete pull request (1): Update pull request title**
 
-* When the pull request is opened, the title input box will be the where the cursor defaults to.
-* The default title will be your last commit message from your branch.
-  * Please change it to provide a summary of what you did.
-  * For our example (PR [Update Care Link in Credits Page - #2131](https://github.com/hackforla/website/pull/2131)), [@adrian-zaragoza](https://github.com/adrian-zaragoza) provided the following title:
+* When the pull request is opened, the cursor will be located in the title input box, and the default title will be your last commit message from your branch.
+* Change the title to a short summary of what you did on the issue: 
+  * **Advice:** Provide a 4-12 word description of your resolution to the issue
+  * For our example, [@adrian-zaragoza](https://github.com/adrian-zaragoza) provided the following title:
 
-  ```
-  Update Care Link in Credits Page
-  ```
+      `Update Care Link in Credits Page`
 
-**Advice:** Provide a 4-12 word summary of your resolution to the issue you are handling.
+  * **Note:** Upon creation, the pull request number will be appended to the title automatically. To avoid confusion, please **do not include** the issue number in the title. 
+  * The final title from our example is:  
+      [Update Care Link in Credits Page #2131](https://github.com/hackforla/website/pull/2131) 
 
 ##### **ii. Complete pull request (2): Add issue number to the pull request**
 
